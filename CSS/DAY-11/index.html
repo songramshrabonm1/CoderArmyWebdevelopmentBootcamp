@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: content-box;
+            background-color: chocolate;
+        }
+        .container{
+            display: grid;
+            grid-template-rows: 1fr 1fr;
+            grid-template-columns: 1fr 1fr;
+            width: 400px;
+            height: 400px;
+            gap: 10px   ;
+        }
+        .box{
+            height: 200px;
+            width: 200px;
+
+        }
+        .first{
+            background-color: rebeccapurple;
+        }
+        .second{
+            background-color: aquamarine;
+        }
+        .third{
+            background-color: blue;
+        }
+        .fourth{
+            background-color: burlywood;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box first"></div>
+        <div class="box second"></div>
+        <div class="box third"></div>
+        <div class="box fourth"></div>
+    </div>
+</body>
+</html>

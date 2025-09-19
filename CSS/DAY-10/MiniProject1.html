@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .fullBox{
+            width: 100vw;
+            height: 500px;
+            display: flex;
+            background-color: aquamarine;
+            justify-content: center; /* main-axis row wise becuase here flex-direction : row default */
+            align-items: center;
+        }
+        .smallContainer{
+            width: 500px;
+            height: 300px;
+            padding: 20px;
+            border-radius: 50px;
+            background-color: red;
+            
+
+        }
+        form > div{
+            border-radius: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="fullBox">
+        <div class="smallContainer">
+            <form>
+
+                <h3>signin Account</h3>
+
+                <div>
+
+                    <label style="display: block;" for="name">UserName</label>
+                    <input style="display: block;" type="text" placeholder="UserName">
+                </div>
+                <div>
+
+                    <label style="display: block;" for="password">Password</label>
+                    <input style="display: block;" type="password" id="password" placeholder="Enter Password">
+                </div>
+                <input type="submit">
+                <div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

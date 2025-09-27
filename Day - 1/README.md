@@ -5,14 +5,14 @@
 
 ধরেন আপনি আপনার GF/Crush এর কাছে উপহার পাঠাতে চাচ্ছেন,  এখন আপনি যদি উপহার পাঠাতে চান তাহলে  যার কাছে উপহার পাঠাবেন তার address আমার জানতে হবে । 
 <br><br>
-ঠিক তেমনভাবে আমরা যখন একটা কম্পিউটার থেকে আরেকটা কম্পিউটারের সাথে যোগাযোগ করতে চাই বা কাউকে মেসেজ দিতে চাই তাহলেও তো আমরা যে কম্পিউটারে মেসেজ দিতে চাচ্ছি সেই কম্পিউটারের Address আমাদের জানতে হবে । আর এই কম্পিউটারের Address টাকেই বলা হয় IP Adress (Internet Protocol) .  
+ঠিক তেমনভাবে আমরা যখন একটা কম্পিউটার থেকে আরেকটা কম্পিউটারের সাথে যোগাযোগ করতে চাই বা কাউকে মেসেজ দিতে চাই তাহলেও তো আমরা যে কম্পিউটারে মেসেজ দিতে চাচ্ছি সেই কম্পিউটারের Address আমাদের জানতে হবে । আর এই কম্পিউটারের Address টাকেই বলা হয় IP Address (Internet Protocol) .  
 
 ![alt text](image.png)
 
 
 ## How To Access Website & Concept Of DNS 
 
-Computer এর এই IP Address টা Permanent নয় , এইটা এক এক সময় এক একটা হতে পারে । আমরা যখন Internet এর সাথে connect হয় তখন এই IP Adress change হতে পারে । আর এই IP Address Provide করে ISP (Internent Service Provider) .  
+Computer এর এই IP Address টা Permanent নয় , এইটা এক এক সময় এক একটা হতে পারে । আমরা যখন Internet এর সাথে connect হয় তখন এই IP Address change হতে পারে । আর এই IP Address Provide করে ISP (Internent Service Provider) .  
 <br>
 computer যখন internet এর সাথে connect হয় ISP (Internet Service Provider) একটা IP Address দেয় আমাদের Device কে Unique ভাবে Identify করার জন্য। 
 <br><br>
@@ -121,7 +121,7 @@ Port Number ১৬ বিটের হয়ে থাকে যা 2^16 - 35536
 
 ## Modern Router 
 
-আচ্ছা আমাদের বাসার মধ্যে যে Router গুলো আছে এগুলোর মধ্যে তো আমরা কোনোদিন Switch দেখিই নাই । কিন্তু এগুলোতেও switch আছে । আচ্ছা switch যদি থেকেই থাকে তাহলে আমরা কি করে wireless ভাবে কাজ করতে পারছি এইটা জন্য আমাদের help করতেছে  WAC (wirelessly access control )। 
+আচ্ছা আমাদের বাসার মধ্যে যে Router গুলো আছে এগুলোর মধ্যে তো আমরা কোনোদিন Switch দেখিই নাই । কিন্তু এগুলোতেও switch আছে । আচ্ছা switch যদি থেকেই থাকে তাহলে আমরা কি করে wireless ভাবে কাজ করতে পারছি এইটা জন্য আমাদের help করতেছে  WAC (wireless access control )। 
 
 ![alt text](image-9.png)
 

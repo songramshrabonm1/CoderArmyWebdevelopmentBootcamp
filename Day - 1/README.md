@@ -1,7 +1,5 @@
 # Internet Working
 
-[How to Access Website](#how-to-access-website)
-
 
 ## IP Address (Internet Protocol) 
 

@@ -81,7 +81,17 @@ MAC - MEDIA ACCESS CONTROL (Permanent Address)
 
 ## Mac Address 
 
-একটা device এ mac address একটা হয় না । একটা ডিভাইসে যত ভাবে share option থাকে তত টা mac address থাকে । 
+একটা device এ mac address একটা হয় না । একটা ডিভাইসে যত ভাবে share করার option থাকে তত টা mac address হয়ে থাকে । আমরা যদি ম্যাক এ Terminal এ ifconfig command দেই তাহলে সব mac address এসে যাবে। 
 
-যা ৪৮ বিটের হয় । ২ টা ২ টা করে থাকে । 
+যা ৪৮ বিটের হয় । Hexa-decimal format এ।  
+
+## Port Number 
+
+Port Number ১৬ বিটের হয়ে থাকে যা 2^16 - 35536 টা টোটাল port number generate করতে পারে। 
+
+<br><br> 
+## Local Area Network (Switch & Router) 
+
+
+
 
